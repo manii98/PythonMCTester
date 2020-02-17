@@ -5,7 +5,7 @@ You need python3 installed (it might run on py2 as well, but I didn't test it)
 So basically I needed a tool to learn for an multiple choice test so I wrote one. It shoots you with a question and the possibly answers and waits until you answer the question. After you did, it tells you if your answer was right or wrong, and if wrong, what would have been the right answer.
 
 # How to run it #
-`python mc_tester.py <path_to_catalog>`
+`python mc_tester.py <path_to_catalog>`#NOT the directory, but the *.json file
 
 ## On Windows ##
 1. Unzip the archive
